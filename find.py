@@ -34,8 +34,6 @@ keywords = [
 	'informático',
 	'informatico',
 	'programador',
-	'visual studio',
-	'electricista',
 ]
 
 #'0.pdf': {'kws': [], 'err': False},
